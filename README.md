@@ -25,3 +25,9 @@ Sometimes these changes meant that I would have to implement the website in a ve
 way than how it was done in the lecture. For example, my save button on my manageAuthor page
 uses a custom button component that embeds the redirect back to the author page into it instead 
 of calling a function directly within the manageAuthorPage through the onClick handler. 
+
+# How To Run
+
+`$ gulp`
+
+
